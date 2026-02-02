@@ -2,4 +2,4 @@
 الكود يعتمد على مكتبة numpy
 لتثبيت المكتبة استخدم الأمر : 
 pip install numpy
-
+![68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e756d70792f6e756d70792f6d61696e2f6272616e64696e672f6c6f676f2f7072696d6172792f6e756d70796c6f676f2e737667](https://github.com/user-attachments/assets/dadb885f-69bc-491d-8d39-14afba721344)
