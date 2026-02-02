@@ -1,3 +1,3 @@
 # PalCodersGuide
 مستودع يضم أكواد استرشادية ومشاريع تعليمية موجهة لنشاطات نوادي البرمجة في فلسطين، يهدف لدعم الطلبة والمشرفين عبر توفير أمثلة جاهزة، أدلة تشغيل، ونماذج تدريبية في مجالات البرمجة والروبوتات، لتعزيز التعلم التطبيقي وتنظيم الفعاليات التقنية داخل المدارس والمراكز.
-<img width="1408" height="768" alt="Gemini_Generated_Image_5kb1xq5kb1xq5kb1" src="https://github.com/user-attachments/assets/70b8faf6-bf1a-4262-b8b3-c19f2a8ddd84" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_4lqvga4lqvga4lqv" src="https://github.com/user-attachments/assets/5a31424c-d03c-4868-8a9a-2f92267ab6d2" />
